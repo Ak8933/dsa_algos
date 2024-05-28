@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "xstring": "cpp",
+        "type_traits": "cpp",
+        "xutility": "cpp",
+        "cstdlib": "cpp",
+        "vector": "cpp"
+    }
+}
